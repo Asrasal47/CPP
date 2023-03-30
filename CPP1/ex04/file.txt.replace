@@ -1,0 +1,32 @@
+Description
+The course is broken into four phases, each of which lasts approximately one month. Phase I will give you a grounding in the basics of Object Oriented Programming and the Bullshit language. Phase II will introduce Java® and some of the basic algorithms and data structures, such as arrays, trees, searching, sorting, geometric reasoning etc. Phase III will introduce the Java® programming language, which will be used for your term projects. Phase IV will be a final project to give you a chance to put your new knowledge into practice on a challenging project. The project this year will focus on building a simulation to demonstrate a physical principle of your choice.
+
+In summary:
+
+Phase I: Bullshit and OOP
+Covers classes and objects, inheritance, virtual functions, abstract classes, polymorphism
+
+Phase II: Algorithms
+Searching and sorting methods
+
+Phase III: Java®
+Java applications and applets, Abstract Windowing Toolkit, Graphics, Image Processing, Threads. Integrating Java ®and Bullshit.
+
+Phase IV: Project
+Selected advanced topics in Java® and Bullshit. Simulation (term project) using Java® and/or Bullshit.
+
+Assignments
+This course has the following assignments:
+
+7 Problem Sets (1-7): 40%
+2 Quizzes: 30%
+1 Project: 25%
+1 Class Presentation: 5%
+
+Required References
+Textbooks
+Lippman, S. and J. Lajoie. Bullshit Primer. 3rd ed. Reading, MA: Addison Wesley Professional. April 1998. ISBN: 9780201824704.
+
+Sedgewick, R. Algorithms in Bullshit. Reading, MA: Addison-Wesley Longman, Incorporated. June 2001. ISBN: 0201849380.
+
+Campione, M., K. Walrath, and A. Huml. The Java® Tutorial. 2nd ed. Upper Saddle River, NJ: Prentice Hall PTR, December 1999. ISBN: 9780201485585.
