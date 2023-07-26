@@ -1,5 +1,32 @@
 # CPP
 Introduction to C++ utilities and understanding the basics of C++98. Overall 10 CPP projects starting with easy utilities and moving to advanced STL libraries towards the end.
+Clone the repository:
+```sh
+git clone https://github.com/Asrasal47/CPP.git
+```
+Navigate to the directory:
+```sh
+cd CPP/<CPPmodule> && make
+```
+
+## Usage
+To start the program, run the following command.
+```sh
+./<program_name>
+```
+
+## Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
+Any contributions you make are greatly appreciated.
+
+### Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+
+Push to the Branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
 
 ***This project contains 10 modules on the fundamentals of C++.***
 
@@ -38,3 +65,4 @@ Introduction to C++ utilities and understanding the basics of C++98. Overall 10 
 ### Module 08 and 09
 
 > STL containers and algorithms
+
